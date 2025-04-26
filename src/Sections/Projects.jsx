@@ -3,8 +3,7 @@ import { useGSAP } from "@gsap/react";
 import { Suspense, useState } from "react";
 import { Canvas } from "@react-three/fiber";
 import { Center, OrbitControls } from "@react-three/drei";
-
-import { myProjects } from "../Constants/index.js";
+import { myProjects } from "../constants/index.js";
 import CanvasLoader from "../Components/CanvasLoader.jsx";
 import DemoComputer from "../components/DemoComputer.jsx";
 
