@@ -6,7 +6,7 @@ import { OrbitControls, PerspectiveCamera } from "@react-three/drei";
 
 import CanvasLoader from "../components/CanvasLoader.jsx";
 import { HackerRoom } from "../components/HackerRoom.jsx";
-import { calculateSizes } from "../constants/index.js";
+import { calculateSizes } from "../Constants";
 import Target from "../components/Target.jsx";
 import Rings from "../components/Rings.jsx";
 import Cube from "../components/Cube.jsx";
