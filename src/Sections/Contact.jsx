@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 
-import useAlert from "../Hooks/useAlert.js";
-import Alert from "../Components/Alert.jsx";
+import useAlert from "../hooks/useAlert.js";
+import useAlert from "../hooks/useAlert.js";
 
 const Contact = () => {
   const formRef = useRef();

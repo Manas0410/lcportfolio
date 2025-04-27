@@ -3,7 +3,7 @@ import { Canvas } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
 
 import CanvasLoader from "../components/CanvasLoader.jsx";
-import { workExperiences } from "../constants/index.js";
+import { workExperiences } from "../constants";
 import Developer from "../components/Developer.jsx";
 
 const WorkExperience = () => {
