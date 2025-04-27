@@ -4,14 +4,14 @@ import { Canvas } from "@react-three/fiber";
 import { useMediaQuery } from "react-responsive";
 import { OrbitControls, PerspectiveCamera } from "@react-three/drei";
 
-import CanvasLoader from "../components/CanvasLoader.jsx";
-import { HackerRoom } from "../components/HackerRoom.jsx";
+import { HackerRoom } from "../Components/HackerRoom.jsx";
 import { calculateSizes } from "../Constants";
-import Target from "../components/Target.jsx";
-import Rings from "../components/Rings.jsx";
-import Cube from "../components/Cube.jsx";
-import HeroCamera from "../components/HeroCamera.jsx";
-import Button from "../components/Button.jsx";
+import Target from "../Components/Target.jsx";
+import Rings from "../Components/Rings.jsx";
+import Cube from "../Components/Cube.jsx";
+import HeroCamera from "../Components/HeroCamera.jsx";
+import Button from "../Components/Button.jsx";
+import CanvasLoader from "../Components/CanvasLoader.jsx";
 
 const Hero = () => {
   //   Use media queries to determine screen size
