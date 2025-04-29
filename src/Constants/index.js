@@ -28,7 +28,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement: Customers often face difficulty finding customizable and reliable finger food catering for events, especially with seamless payment options.The lack of real-time updates, clarity in packages, and payment failures leads to poor user experience and drop-offs.Solution Statement: TapasGo simplifies finger food catering by offering curated menus, personalized packages, and transparent pricing. It ensures a smooth ordering experience with multiple payment modes, real-time order tracking, and event-specific recommendations.",
     href: "",
-    texture: "/textures/project/project1.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo1.png",
     logoStyle: {
       backgroundColor: "#2A1816",
@@ -60,7 +60,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement: Users faced friction while navigating complex banking tasks due to unintuitive flows and information overload.This led to low engagement and delays in completing key transactions. Solution:Redesigned the user flow with a focus on clarity, accessibility, and task prioritization. Implemented user-centered design strategies that improved task efficiency by 25%.",
     href: "-",
-    texture: "/textures/project/project2.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo2.png",
     logoStyle: {
       backgroundColor: "#13202F",
@@ -82,7 +82,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement: Support agents struggled with fragmented conversations and inefficient issue tracking, causing delays in resolution.The existing system lacked clarity and prioritization for active issues. Solution: Redesigned the platform with threaded discussions and structured task flows to enhance clarity and accountability. This reduced issue resolution time by 40% and improved cross-team collaboration.",
     href: "-",
-    texture: "/textures/project/project3.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo3.png",
     logoStyle: {
       backgroundColor: "#60f5a1",
@@ -106,14 +106,14 @@ export const myProjects = [
     subdesc:
       "Problem Statement: Users lacked the ability to generate customized reports, limiting their ability to derive actionable insights.Static report templates failed to support complex data relationships or calculations.Solution:Built a flexible reporting module with formula-driven customizations and dynamic dataset linking. Enabled advanced reporting capabilities, drastically improving user control and analytical outcomes.",
     href: "https://www.youtube.com/watch?v=PuOVqP_cjkE",
-    texture: "/textures/project/project4.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo4.png",
     logoStyle: {
       backgroundColor: "#0E1F38",
       border: "0.2px solid #0E2D58",
       boxShadow: "0px 0px 60px 0px #2F67B64D",
     },
-    spotlight: "/assets/spotlight4.png",
+    spotlight: "/assets/spotlight.png",
     tags: [
       {
         id: 1,
@@ -128,7 +128,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement: Users faced difficulty retrieving files quickly due to cluttered UI and lacked granular access control. This led to workflow bottlenecks and security vulnerabilities in file handling. Solution:Redesigned the interface with a clean, categorized layout and added advanced privilege settings for better control. Reduced file retrieval time by 30%, improving both efficiency and security.",
     href: "-",
-    texture: "/textures/project/project5.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo5.png",
     logoStyle: {
       backgroundColor: "#1C1A43",
@@ -150,7 +150,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement: The existing vendor onboarding process was slow and confusing due to scattered documentation and undefined user roles.This caused delays in verification and operational inefficiencies. Solution:Designed a structured, persona-based user journey with simplified document uploads and status tracking.Improved verification speed by 35%, enhancing overall operational flow.",
     href: "-",
-    texture: "/textures/project/project5.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo5.png",
     logoStyle: {
       backgroundColor: "#1C1A43",
@@ -173,7 +173,7 @@ export const myProjects = [
     subdesc:
       "Manual audit processes were time-consuming and prone to errors, leading to poor visibility and compliance gaps.Lack of structured tracking made audits difficult to manage efficiently.Solution:Built an automated, step-by-step audit workflow with user-friendly navigation and real-time compliance monitoring. Improved audit transparency and significantly reduced manual overhead.",
     href: "-",
-    texture: "/textures/project/project5.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo5.png",
     logoStyle: {
       backgroundColor: "#1C1A43",
@@ -196,7 +196,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement: Emergency response workflows lacked clarity and structure, resulting in inefficient disaster management during critical times.There was no easy way to schedule, manage, or report on regular disaster preparedness drills. Solution:Created a UI with clearly defined workflows for each emergency scenario, improving decision-making speed.Introduced drill management functionality, ensuring periodic assessments and accurate reporting for compliance.",
     href: "-",
-    texture: "/textures/project/project5.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo5.png",
     logoStyle: {
       backgroundColor: "#1C1A43",
@@ -219,7 +219,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement:The websites lacked an intuitive interface and did not offer an engaging experience, causing high bounce rates and low user retention.Outdated design and poor navigation made it difficult for users to quickly access key information.Solution: Redesigned the websites with a focus on clear navigation, modern aesthetics, and mobile-first responsive design. Improved user engagement and interaction, ensuring both websites effectively communicate the brand’s value proposition.",
     href: "-",
-    texture: "/textures/project/project5.mp4",
+    texture: "/textures/project/project.mp4",
     logo: "/assets/project-logo5.png",
     logoStyle: {
       backgroundColor: "#1C1A43",
