@@ -52,12 +52,12 @@ const Footer = () => {
           />
         </a>
         <a
-          href="https://www.instagram.com/ui_ux_by_lolzzz/"
+          href="https://medium.com/@lupomudra"
           target="_blank"
           className="social-icon"
         >
           <img
-            src="/assets/instagram.svg"
+            src="/assets/medium.png"
             alt="instagram"
             className="w-1/2 h-1/2"
           />
