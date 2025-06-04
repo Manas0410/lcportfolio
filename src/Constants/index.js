@@ -60,7 +60,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement: Users faced friction while navigating complex banking tasks due to unintuitive flows and information overload.This led to low engagement and delays in completing key transactions. Solution:Redesigned the user flow with a focus on clarity, accessibility, and task prioritization. Implemented user-centered design strategies that improved task efficiency by 25%.",
     href: "-",
-    texture: "/textures/project/project.mp4",
+    texture: "/textures/project/evonext.mp4",
     logo: "/assets/project-logo2.png",
     logoStyle: {
       backgroundColor: "#13202F",
@@ -82,7 +82,7 @@ export const myProjects = [
     subdesc:
       "Problem Statement: Support agents struggled with fragmented conversations and inefficient issue tracking, causing delays in resolution.The existing system lacked clarity and prioritization for active issues. Solution: Redesigned the platform with threaded discussions and structured task flows to enhance clarity and accountability. This reduced issue resolution time by 40% and improved cross-team collaboration.",
     href: "-",
-    texture: "/textures/project/project.mp4",
+    texture: "/textures/project/qms.mp4",
     logo: "/assets/project-logo3.png",
     logoStyle: {
       backgroundColor: "#60f5a1",
@@ -220,6 +220,28 @@ export const myProjects = [
       "Problem Statement:The websites lacked an intuitive interface and did not offer an engaging experience, causing high bounce rates and low user retention.Outdated design and poor navigation made it difficult for users to quickly access key information.Solution: Redesigned the websites with a focus on clear navigation, modern aesthetics, and mobile-first responsive design. Improved user engagement and interaction, ensuring both websites effectively communicate the brand’s value proposition.",
     href: "-",
     texture: "/textures/project/project.mp4",
+    logo: "/assets/project-logo5.png",
+    logoStyle: {
+      backgroundColor: "#1C1A43",
+      border: "0.2px solid #252262",
+      boxShadow: "0px 0px 60px 0px #635BFF4D",
+    },
+    spotlight: "/assets/spotlight5.png",
+    tags: [
+      {
+        id: 1,
+        name: "Figma",
+        path: "/assets/react.svg",
+      },
+    ],
+  },
+  {
+    title: "BCM Platform – Simplifying Enterprise Risk & Continuity Planning",
+    desc: "Designed a user-centric continuity management experience by restructuring complex BIA workflows and aligning the interface with real-world enterprise recovery processes. Focused on improving usability, task flow, and clarity across key modules like BIA, FRP, and BCP.",
+    subdesc:
+      "Problem Statement: Users struggled to complete Business Impact Analyses due to overwhelming forms with over 60 fields, unclear structure, and lack of prioritization. This resulted in poor adoption and inconsistent data for risk assessment.Solution: Redesigned the BIA module using a hierarchical and categorized approach. Grouped fields into logical sections like process overview, dependencies, and recovery metrics to reduce cognitive load. Enhanced form usability with collapsible sections, tooltips, and task progress indicators—leading to a 40% increase in form completion rate and better data quality.",
+    href: "-",
+    texture: "/textures/project/bcm.mp4",
     logo: "/assets/project-logo5.png",
     logoStyle: {
       backgroundColor: "#1C1A43",
