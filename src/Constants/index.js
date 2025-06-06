@@ -100,141 +100,141 @@ export const myProjects = [
       },
     ],
   },
-  {
-    title: "RACE – Dynamic Reporting Engine for Smarter Insights",
-    desc: "Designed a modular reporting interface enabling users to build tailored reports from multiple datasets. Integrated equation-based logic inspired by Tableau and Power BI to boost data flexibility and business decision-making.",
-    subdesc:
-      "Problem Statement: Users lacked the ability to generate customized reports, limiting their ability to derive actionable insights.Static report templates failed to support complex data relationships or calculations.Solution:Built a flexible reporting module with formula-driven customizations and dynamic dataset linking. Enabled advanced reporting capabilities, drastically improving user control and analytical outcomes.",
-    href: "https://www.youtube.com/watch?v=PuOVqP_cjkE",
-    texture: "/textures/project/project.mp4",
-    logo: "/assets/project-logo4.png",
-    logoStyle: {
-      backgroundColor: "#0E1F38",
-      border: "0.2px solid #0E2D58",
-      boxShadow: "0px 0px 60px 0px #2F67B64D",
-    },
-    spotlight: "/assets/spotlight.png",
-    tags: [
-      {
-        id: 1,
-        name: "Figma",
-        path: "/assets/react.svg",
-      },
-    ],
-  },
-  {
-    title: "DMS – Secure & Streamlined Document Management System",
-    desc: "Revamped the file management system UI to improve usability while implementing advanced access controls. Focused on simplifying navigation and ensuring secure, role-based file access.",
-    subdesc:
-      "Problem Statement: Users faced difficulty retrieving files quickly due to cluttered UI and lacked granular access control. This led to workflow bottlenecks and security vulnerabilities in file handling. Solution:Redesigned the interface with a clean, categorized layout and added advanced privilege settings for better control. Reduced file retrieval time by 30%, improving both efficiency and security.",
-    href: "-",
-    texture: "/textures/project/project.mp4",
-    logo: "/assets/project-logo5.png",
-    logoStyle: {
-      backgroundColor: "#1C1A43",
-      border: "0.2px solid #252262",
-      boxShadow: "0px 0px 60px 0px #635BFF4D",
-    },
-    spotlight: "/assets/spotlight5.png",
-    tags: [
-      {
-        id: 1,
-        name: "Figma",
-        path: "/assets/react.svg",
-      },
-    ],
-  },
-  {
-    title: "Vendor Management – Accelerated Verification Through Intuitive UX",
-    desc: "Led the UX design for a vendor verification system by crafting clear user personas and streamlined flows.Enhanced document management and process clarity, resulting in faster and more accurate verification.",
-    subdesc:
-      "Problem Statement: The existing vendor onboarding process was slow and confusing due to scattered documentation and undefined user roles.This caused delays in verification and operational inefficiencies. Solution:Designed a structured, persona-based user journey with simplified document uploads and status tracking.Improved verification speed by 35%, enhancing overall operational flow.",
-    href: "-",
-    texture: "/textures/project/project.mp4",
-    logo: "/assets/project-logo5.png",
-    logoStyle: {
-      backgroundColor: "#1C1A43",
-      border: "0.2px solid #252262",
-      boxShadow: "0px 0px 60px 0px #635BFF4D",
-    },
-    spotlight: "/assets/spotlight5.png",
-    tags: [
-      {
-        id: 1,
-        name: "Figma",
-        path: "/assets/react.svg",
-      },
-    ],
-  },
-  {
-    title:
-      "Audit Management – Streamlining Compliance with End-to-End Automation",
-    desc: "Designed a comprehensive audit management platform that automates every stage—from initiation to remediation.Focused on intuitive UI and robust compliance tracking to simplify complex workflows.",
-    subdesc:
-      "Manual audit processes were time-consuming and prone to errors, leading to poor visibility and compliance gaps.Lack of structured tracking made audits difficult to manage efficiently.Solution:Built an automated, step-by-step audit workflow with user-friendly navigation and real-time compliance monitoring. Improved audit transparency and significantly reduced manual overhead.",
-    href: "-",
-    texture: "/textures/project/project.mp4",
-    logo: "/assets/project-logo5.png",
-    logoStyle: {
-      backgroundColor: "#1C1A43",
-      border: "0.2px solid #252262",
-      boxShadow: "0px 0px 60px 0px #635BFF4D",
-    },
-    spotlight: "/assets/spotlight5.png",
-    tags: [
-      {
-        id: 1,
-        name: "Figma",
-        path: "/assets/react.svg",
-      },
-    ],
-  },
-  {
-    title:
-      "Business Continuity – Enhancing Disaster Response Through Structured Workflows",
-    desc: "Designed a user interface for a disaster management system, incorporating structured workflows for varying emergency levels.Implemented drill management features to facilitate regular assessments and streamline reporting.",
-    subdesc:
-      "Problem Statement: Emergency response workflows lacked clarity and structure, resulting in inefficient disaster management during critical times.There was no easy way to schedule, manage, or report on regular disaster preparedness drills. Solution:Created a UI with clearly defined workflows for each emergency scenario, improving decision-making speed.Introduced drill management functionality, ensuring periodic assessments and accurate reporting for compliance.",
-    href: "-",
-    texture: "/textures/project/project.mp4",
-    logo: "/assets/project-logo5.png",
-    logoStyle: {
-      backgroundColor: "#1C1A43",
-      border: "0.2px solid #252262",
-      boxShadow: "0px 0px 60px 0px #635BFF4D",
-    },
-    spotlight: "/assets/spotlight5.png",
-    tags: [
-      {
-        id: 1,
-        name: "Figma",
-        path: "/assets/react.svg",
-      },
-    ],
-  },
-  {
-    title:
-      "Website Development & UI/UX Design – Crafting Seamless Digital Experiences",
-    desc: "Designed and developed websites for Depronto Infotech (deprontoinfotech.com) and Evonext AI (evonext.ai), focusing on creating a seamless user experience.Implemented modern UI design principles, ensuring responsive, accessible, and visually appealing websites.",
-    subdesc:
-      "Problem Statement:The websites lacked an intuitive interface and did not offer an engaging experience, causing high bounce rates and low user retention.Outdated design and poor navigation made it difficult for users to quickly access key information.Solution: Redesigned the websites with a focus on clear navigation, modern aesthetics, and mobile-first responsive design. Improved user engagement and interaction, ensuring both websites effectively communicate the brand’s value proposition.",
-    href: "-",
-    texture: "/textures/project/project.mp4",
-    logo: "/assets/project-logo5.png",
-    logoStyle: {
-      backgroundColor: "#1C1A43",
-      border: "0.2px solid #252262",
-      boxShadow: "0px 0px 60px 0px #635BFF4D",
-    },
-    spotlight: "/assets/spotlight5.png",
-    tags: [
-      {
-        id: 1,
-        name: "Figma",
-        path: "/assets/react.svg",
-      },
-    ],
-  },
+  // {
+  //   title: "RACE – Dynamic Reporting Engine for Smarter Insights",
+  //   desc: "Designed a modular reporting interface enabling users to build tailored reports from multiple datasets. Integrated equation-based logic inspired by Tableau and Power BI to boost data flexibility and business decision-making.",
+  //   subdesc:
+  //     "Problem Statement: Users lacked the ability to generate customized reports, limiting their ability to derive actionable insights.Static report templates failed to support complex data relationships or calculations.Solution:Built a flexible reporting module with formula-driven customizations and dynamic dataset linking. Enabled advanced reporting capabilities, drastically improving user control and analytical outcomes.",
+  //   href: "https://www.youtube.com/watch?v=PuOVqP_cjkE",
+  //   texture: "/textures/project/project.mp4",
+  //   logo: "/assets/project-logo4.png",
+  //   logoStyle: {
+  //     backgroundColor: "#0E1F38",
+  //     border: "0.2px solid #0E2D58",
+  //     boxShadow: "0px 0px 60px 0px #2F67B64D",
+  //   },
+  //   spotlight: "/assets/spotlight.png",
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: "Figma",
+  //       path: "/assets/react.svg",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: "DMS – Secure & Streamlined Document Management System",
+  //   desc: "Revamped the file management system UI to improve usability while implementing advanced access controls. Focused on simplifying navigation and ensuring secure, role-based file access.",
+  //   subdesc:
+  //     "Problem Statement: Users faced difficulty retrieving files quickly due to cluttered UI and lacked granular access control. This led to workflow bottlenecks and security vulnerabilities in file handling. Solution:Redesigned the interface with a clean, categorized layout and added advanced privilege settings for better control. Reduced file retrieval time by 30%, improving both efficiency and security.",
+  //   href: "-",
+  //   texture: "/textures/project/project.mp4",
+  //   logo: "/assets/project-logo5.png",
+  //   logoStyle: {
+  //     backgroundColor: "#1C1A43",
+  //     border: "0.2px solid #252262",
+  //     boxShadow: "0px 0px 60px 0px #635BFF4D",
+  //   },
+  //   spotlight: "/assets/spotlight5.png",
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: "Figma",
+  //       path: "/assets/react.svg",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: "Vendor Management – Accelerated Verification Through Intuitive UX",
+  //   desc: "Led the UX design for a vendor verification system by crafting clear user personas and streamlined flows.Enhanced document management and process clarity, resulting in faster and more accurate verification.",
+  //   subdesc:
+  //     "Problem Statement: The existing vendor onboarding process was slow and confusing due to scattered documentation and undefined user roles.This caused delays in verification and operational inefficiencies. Solution:Designed a structured, persona-based user journey with simplified document uploads and status tracking.Improved verification speed by 35%, enhancing overall operational flow.",
+  //   href: "-",
+  //   texture: "/textures/project/project.mp4",
+  //   logo: "/assets/project-logo5.png",
+  //   logoStyle: {
+  //     backgroundColor: "#1C1A43",
+  //     border: "0.2px solid #252262",
+  //     boxShadow: "0px 0px 60px 0px #635BFF4D",
+  //   },
+  //   spotlight: "/assets/spotlight5.png",
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: "Figma",
+  //       path: "/assets/react.svg",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title:
+  //     "Audit Management – Streamlining Compliance with End-to-End Automation",
+  //   desc: "Designed a comprehensive audit management platform that automates every stage—from initiation to remediation.Focused on intuitive UI and robust compliance tracking to simplify complex workflows.",
+  //   subdesc:
+  //     "Manual audit processes were time-consuming and prone to errors, leading to poor visibility and compliance gaps.Lack of structured tracking made audits difficult to manage efficiently.Solution:Built an automated, step-by-step audit workflow with user-friendly navigation and real-time compliance monitoring. Improved audit transparency and significantly reduced manual overhead.",
+  //   href: "-",
+  //   texture: "/textures/project/project.mp4",
+  //   logo: "/assets/project-logo5.png",
+  //   logoStyle: {
+  //     backgroundColor: "#1C1A43",
+  //     border: "0.2px solid #252262",
+  //     boxShadow: "0px 0px 60px 0px #635BFF4D",
+  //   },
+  //   spotlight: "/assets/spotlight5.png",
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: "Figma",
+  //       path: "/assets/react.svg",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title:
+  //     "Business Continuity – Enhancing Disaster Response Through Structured Workflows",
+  //   desc: "Designed a user interface for a disaster management system, incorporating structured workflows for varying emergency levels.Implemented drill management features to facilitate regular assessments and streamline reporting.",
+  //   subdesc:
+  //     "Problem Statement: Emergency response workflows lacked clarity and structure, resulting in inefficient disaster management during critical times.There was no easy way to schedule, manage, or report on regular disaster preparedness drills. Solution:Created a UI with clearly defined workflows for each emergency scenario, improving decision-making speed.Introduced drill management functionality, ensuring periodic assessments and accurate reporting for compliance.",
+  //   href: "-",
+  //   texture: "/textures/project/project.mp4",
+  //   logo: "/assets/project-logo5.png",
+  //   logoStyle: {
+  //     backgroundColor: "#1C1A43",
+  //     border: "0.2px solid #252262",
+  //     boxShadow: "0px 0px 60px 0px #635BFF4D",
+  //   },
+  //   spotlight: "/assets/spotlight5.png",
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: "Figma",
+  //       path: "/assets/react.svg",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title:
+  //     "Website Development & UI/UX Design – Crafting Seamless Digital Experiences",
+  //   desc: "Designed and developed websites for Depronto Infotech (deprontoinfotech.com) and Evonext AI (evonext.ai), focusing on creating a seamless user experience.Implemented modern UI design principles, ensuring responsive, accessible, and visually appealing websites.",
+  //   subdesc:
+  //     "Problem Statement:The websites lacked an intuitive interface and did not offer an engaging experience, causing high bounce rates and low user retention.Outdated design and poor navigation made it difficult for users to quickly access key information.Solution: Redesigned the websites with a focus on clear navigation, modern aesthetics, and mobile-first responsive design. Improved user engagement and interaction, ensuring both websites effectively communicate the brand’s value proposition.",
+  //   href: "-",
+  //   texture: "/textures/project/project.mp4",
+  //   logo: "/assets/project-logo5.png",
+  //   logoStyle: {
+  //     backgroundColor: "#1C1A43",
+  //     border: "0.2px solid #252262",
+  //     boxShadow: "0px 0px 60px 0px #635BFF4D",
+  //   },
+  //   spotlight: "/assets/spotlight5.png",
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: "Figma",
+  //       path: "/assets/react.svg",
+  //     },
+  //   ],
+  // },
   {
     title: "BCM Platform – Simplifying Enterprise Risk & Continuity Planning",
     desc: "Designed a user-centric continuity management experience by restructuring complex BIA workflows and aligning the interface with real-world enterprise recovery processes. Focused on improving usability, task flow, and clarity across key modules like BIA, FRP, and BCP.",
